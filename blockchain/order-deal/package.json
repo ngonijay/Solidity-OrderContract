@@ -1,0 +1,22 @@
+{
+  "name": "order-deal",
+  "version": "1.0.0",
+  "description": "Seller and Buyer Smart Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "blockchain"
+  ],
+  "authors": "Ngonidzashe Jambo <ngonijambo2@gmail.com and Fabio Jose Moraes <fabiojose@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
