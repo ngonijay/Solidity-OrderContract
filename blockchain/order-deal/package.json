@@ -17,6 +17,6 @@
   "authors": "Ngonidzashe Jambo <ngonijambo2@gmail.com and Fabio Jose Moraes <fabiojose@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.21"
   }
 }
